@@ -9,6 +9,10 @@ Built with **Python** and **CustomTkinter**.
 ## Screenshot
 
 ![Application Screenshot](./screenshot.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> d1449377a326ef1a4951192c98b78f91760cbc0a
 ---
 
 ## Quick Download
