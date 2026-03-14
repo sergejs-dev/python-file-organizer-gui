@@ -1,8 +1,21 @@
 import customtkinter as ctk
 from tkinter import filedialog
-import os
 import shutil
 from PIL import Image
+import sys
+import os
+
+
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+    return os.path.join(base_path, relative_path)
+
+
+
+
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
@@ -84,20 +97,31 @@ def organize_files():
 app = ctk.CTk()
 app.title("File Organizer")
 app.geometry("520x480")
-icon_path = "file_organizer/assets/icon.ico"
 
-app.iconbitmap("file_organizer/assets/icon.ico")
-app.iconbitmap("file_organizer/assets/icon.ico")
+icon_path = resource_path("assets/icon.ico")
+
+try:
+    app.iconbitmap(icon_path)
+except:
+    pass
 
 
 
 
 
 
+
+
+
+
+
+
+
+logo_path = resource_path("assets/icon.ico")
 
 icon_image = ctk.CTkImage(
-    light_image=Image.open(icon_path),
-    dark_image=Image.open(icon_path),
+    light_image=Image.open(logo_path),
+    dark_image=Image.open(logo_path),
     size=(32, 32)
 )
 
