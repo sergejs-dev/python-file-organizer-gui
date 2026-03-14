@@ -11,8 +11,7 @@ Download the executable version:
 
 
 ## Screenshot
-
-![Application Screenshot](./screenshot.png)
+![Application Screenshot](screenshot.png)
 
 
 --
