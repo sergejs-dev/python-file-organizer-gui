@@ -4,6 +4,16 @@ A simple desktop utility that automatically organizes files in a folder by type.
 
 Built with Python and CustomTkinter.
 
+## Quick Download
+
+Download the executable version:
+
+➡ [Download EXE](../../releases/latest)
+
+## Screenshot
+
+![Application Screenshot](screenshot.png)
+
 ## Features
 
 - Modern GUI built with CustomTkinter
@@ -20,9 +30,9 @@ Built with Python and CustomTkinter.
 - Videos
 - Archives
 
-## Screenshot
 
-![File Organizer](screenshot.png)
+
+![Application Screenshot](screenshot.png)
 
 ## How to run
 
