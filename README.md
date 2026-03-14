@@ -8,8 +8,7 @@ Built with **Python** and **CustomTkinter**.
 
 ## Screenshot
 
-![Application Screenshot](screenshot.png)
-
+![Application Screenshot](./screenshot.png)
 ---
 
 ## Quick Download
