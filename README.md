@@ -28,7 +28,7 @@ Built with Python and CustomTkinter.
 
 ## Screenshot
 
-![Application Screenshot](screenshots/app.png)
+![Application Screenshot](screenshot.png)
 
 ---
 
