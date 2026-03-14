@@ -5,23 +5,17 @@ A simple desktop utility that automatically organizes files in a folder by type.
 Built with **Python** and **CustomTkinter**.
 
 ---
-
-## Screenshot
-
-![Application Screenshot](./screenshot.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> d1449377a326ef1a4951192c98b78f91760cbc0a
----
-
-## Quick Download
-
 Download the executable version:
 
 ➡ **[Download EXE](../../releases/latest)**
 
----
+
+## Screenshot
+
+![Application Screenshot](./screenshot.png)
+
+
+--
 
 ## Features
 
@@ -43,8 +37,3 @@ The application automatically organizes files into folders:
 - Videos
 - Archives
 
----
-
-## Run from Source
-
-Install dependencies:
