@@ -11,7 +11,9 @@ Download the executable version:
 
 
 ## Screenshot
-![Application Screenshot](screenshot.png)
+## Screenshot
+
+![Application Screenshot](https://raw.githubusercontent.com/sergejs-dev/python-file-organizer-gui/main/screenshot.png)
 
 
 --
