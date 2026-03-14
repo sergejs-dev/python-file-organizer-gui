@@ -4,6 +4,8 @@ A simple desktop utility that automatically organizes files in a folder by type.
 
 Built with Python and CustomTkinter.
 
+---
+
 ## Features
 
 - Modern GUI built with CustomTkinter
@@ -11,6 +13,8 @@ Built with Python and CustomTkinter.
 - Progress bar
 - Operation log
 - Clean user interface
+
+---
 
 ## Supported file types
 
@@ -20,16 +24,22 @@ Built with Python and CustomTkinter.
 - Videos
 - Archives
 
+---
+
 ## Screenshot
 
-![File Organizer](screenshot.png)
+![Application Screenshot](screenshots/app.png)
 
-## How to run
+---
+
+## Download
+
+Download the executable version:
+
+➡ **[Download EXE](../../releases/latest)**
+
+---
+
+## Run from source
 
 Install dependencies:
-
-pip install customtkinter pillow
-
-Run the application:
-
-python main.py
