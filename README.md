@@ -10,7 +10,7 @@ Download the executable version:
 ➡ **[Download EXE](../../releases/latest)**
 
 
-## Screenshot
+
 ## Screenshot
 
 ![Application Screenshot](https://raw.githubusercontent.com/sergejs-dev/python-file-organizer-gui/main/screenshot.png)
