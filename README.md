@@ -2,27 +2,37 @@
 
 A simple desktop utility that automatically organizes files in a folder by type.
 
-Built with Python and CustomTkinter.
+Built with **Python** and **CustomTkinter**.
 
-## Quick Download
-
-Download the executable version:
-
-➡ [Download EXE](../../releases/latest)
+---
 
 ## Screenshot
 
 ![Application Screenshot](screenshot.png)
 
+---
+
+## Quick Download
+
+Download the executable version:
+
+➡ **[Download EXE](../../releases/latest)**
+
+---
+
 ## Features
 
 - Modern GUI built with CustomTkinter
-- Automatic file sorting
-- Progress bar
-- Operation log
-- Clean user interface
+- Automatic file sorting by type
+- Progress bar during processing
+- Real-time operation log
+- Clean and simple user interface
 
-## Supported file types
+---
+
+## Supported File Types
+
+The application automatically organizes files into folders:
 
 - Images
 - Documents
@@ -30,16 +40,8 @@ Download the executable version:
 - Videos
 - Archives
 
+---
 
-
-![Application Screenshot](screenshot.png)
-
-## How to run
+## Run from Source
 
 Install dependencies:
-
-pip install customtkinter pillow
-
-Run the application:
-
-python main.py
